@@ -1,3 +1,3 @@
 #!/bin/bash
-echo this is my first shell 
+echo this is my third shell 
 
